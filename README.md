@@ -37,6 +37,6 @@ I am currently building real-world Data Analytics projects and will keep updatin
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Paste your LinkedIn profile link here later)
+- LinkedIn: (https://github.com/Shraddha-Shakya)
 
 ⭐ Thanks for visiting my GitHub profile!
