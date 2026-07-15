@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Shraddha Shakya 👋
 
-<!--
-**Shraddha-Shakya/Shraddha-Shakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am currently learning Data Analytics and building my skills in Python, SQL, Excel, Power BI, Pandas, and NumPy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems with data and my goal is to become a Data Analyst by working on real-world projects.
+
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- MySQL
+- Pandas
+- NumPy
+- Microsoft Excel
+- Power BI
+
+---
+
+## 📖 Currently Learning
+
+- Data Cleaning
+- Data Visualization
+- Statistics
+- Machine Learning
+
+---
+
+## 🚀 Current Goal
+
+I am currently building real-world Data Analytics projects and will keep updating this profile with my work.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Paste your LinkedIn profile link here later)
+
+⭐ Thanks for visiting my GitHub profile!
