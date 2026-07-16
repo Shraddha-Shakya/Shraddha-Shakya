@@ -11,6 +11,7 @@ I enjoy solving problems with data and my goal is to become a Data Analyst by wo
 ## 🛠️ Skills
 
 - Python
+- OOPs
 - SQL
 - MySQL
 - Pandas
