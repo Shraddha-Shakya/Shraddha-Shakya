@@ -1,6 +1,6 @@
 # Hi, I'm Shraddha Shakya 👋
 
-## 🎯 Aspiring Data Analyst
+## 🎯 Aspiring Data Analyst & Data Scientist
 
 I am currently learning Data Analytics and building my skills in Python, SQL, Excel, Power BI, Pandas, and NumPy.
 
