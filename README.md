@@ -14,6 +14,7 @@ I enjoy solving problems with data and my goal is to become a Data Analyst by wo
 - OOPs
 - SQL
 - MySQL
+- Streamlit
 - Pandas
 - NumPy
 - Microsoft Excel
